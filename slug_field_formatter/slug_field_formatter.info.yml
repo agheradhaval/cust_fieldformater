@@ -1,0 +1,6 @@
+name: Text Field Formatters
+type: module
+description: Provides field formatters for text fields.
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:text
